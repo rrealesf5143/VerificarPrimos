@@ -14,7 +14,7 @@ public class ChecarNumerosPrimos
         //  creamos un objeto de tipo //scanner para lectura de datos por teclado
         Scanner scan = new Scanner(System.in);
         
-        //declaramos 3 variables enteras de alto rango
+        //declaramos 3 variables enteras 
         //a para el resultado,
         //i que sera el contador del ciclo for
         // y num que es numero a verificar por el usuario
